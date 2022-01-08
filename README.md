@@ -1,5 +1,5 @@
 # delete-archived-sp-tasks.py
-Removes all archived super productivity tasks. Just run the python script.
+Removes all archived super productivity tasks. Just run the python script. This is helpful to do a cleanup every 3-6 months.
 
 NOTE: You lose your working time of the archived tasks.
 
